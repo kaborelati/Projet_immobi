@@ -1,0 +1,33 @@
+.red{
+	height: 600px;
+	background-color: red;
+	
+
+}
+.ol{
+	color: blue;
+	text-decoration: none;
+	text-indent: 30px;
+	text-transform: unset;
+}
+h1{
+	color: red;
+	text-shadow: 20px;
+	text-transform: capitalize;
+}
+.btn{
+	border-color: red;
+	text-align: center;
+	text-decoration-color: red;
+
+}
+.jum{
+        margin-top:30px;
+        background-color: teal; 
+
+}
+.btn-custon{
+	background-color: aqua;
+	width: 150px;
+}
+

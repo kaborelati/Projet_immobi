@@ -1,0 +1,203 @@
+.body{
+	padding: 0px;
+	margin: 0px;
+}
+
+
+a{
+	text-decoration: none;
+} 
+a:hover{
+	text-decoration: none;/*enlever les line en bas des liens*/
+
+
+}
+
+.container-fluid{
+
+	padding: 0px;
+}
+/*header*/
+.header{
+	background-color: #3498DB;/*blue claire*/
+	height: 70PX;
+	line-height: 30PX;
+
+
+}
+
+.logo{
+	color: #ffffff;
+	text-transform: uppercase;
+	font-weight: bold;
+	letter-spacing: 1px;
+	float: left;/*bassule vers la gauche*/
+
+}
+
+.menu{
+	float: right;
+}
+
+.rech{
+	float: left;
+	margin-right: 10px;
+	position:absolute;
+}
+
+.menu a{
+
+	color: #ffffff;
+	margin-right: 20px; 
+}
+.menu a:hover{
+	color:#2C3E50;/*mettre les liens en couleur quand on les sruvol*/
+	
+}
+
+
+
+
+
+
+/*banner*/
+ .banner{
+ 	width: 100%;
+ 	max-width: 100%;
+ }
+
+.ban{
+ 	width: 100%;
+ 	max-width: 100%;
+ 	position: relative;
+ }
+ .ban img{
+ 	width: 100%;
+ 	max-width: 100%;
+ }
+.inner-banner{
+	position:absolute;
+	top: 10%;
+	left:0;
+	width: 100%;
+	text-align: center;  
+}
+.inner-banner h1{
+	color: #ffffff;
+	text-shadow: 1px 2px 28px #000000;
+	
+}
+
+.red{
+	background-color: #3498DB;
+	color:#ffffff;
+
+
+} 
+.red a{
+	color: #ffffff;
+}
+.p1{
+	margin-right: 50%;
+
+}
+.test{
+
+	color: #3498DB;
+	font-weight: bold;
+}
+
+/*about*/
+p{
+	text-align: justify;
+	text-indent: 10px;
+
+}
+
+.aboud{
+	text-align: center;
+	margin-top: 90px;
+
+}
+.about article h2{
+ text-align: center;
+ color: red;
+
+}
+.rel{
+	text-align: center;
+	margin: 0px;
+	
+}
+.folio{
+	background-color: #eeeeee;
+	text-align: center;
+	height: 500px;
+	margin-top: 100px;
+
+}
+
+
+.folio h2{
+	text-align: center;
+}.folio .item-folio{
+	height: 100px;
+	background-color:#3498DB
+	
+
+
+}
+.footer{
+	background-color:#3498DB ;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	position: relative;
+
+
+}
+.mot{
+	text-align: center;
+	color: #ffffff;
+
+}
+.formulaire{
+	width: 500px;
+	display: block;
+    margin: 0 auto;
+}
+
+input{
+	margin-bottom: 20px;
+}
+
+.img1{
+	width: 500px;
+	height: 50px;
+
+}
+.carousel-slide{
+	top: 10;
+
+}
+.item{
+	width: 100%;
+	height: 100%;
+	max-width
+}
+.largeur{
+	width: 100px;
+	height: 100px;
+
+}
+.told{
+	background-color: #63C2F9;
+}
+span{
+	color: #63C2F9;
+}
+span a:hover{
+	color: #927D64;
+}
+.impri{
+	background-color: red;
+}
